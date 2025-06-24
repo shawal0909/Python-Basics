@@ -1,6 +1,6 @@
 #creating python list
 list1 = [0, "Shawal", "Ronald", "James"]
-#print(list1)
+print(list1)
 
 #creating python dictionary
 dic1 = {"Name": "Hisaalu Nelson", "Location": "Kirugu", "Tel": 786764239}

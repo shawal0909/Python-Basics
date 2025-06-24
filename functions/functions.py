@@ -19,7 +19,7 @@ result1 = add(5,7)
 print(result1)
 
 #concatenation
-result1 = add("5","7")
+result1 = add("5","6")
 print(result1)
 
 result2 = add("Nabulya ","Ruth")
